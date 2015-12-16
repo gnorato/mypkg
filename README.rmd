@@ -1,0 +1,11 @@
+## Intro to mypkg
+
+This is a package I'm creating for advanced Data Science
+
+## Here's how you install it
+
+```S
+library(devtools)
+install_github("gnorato/mypkg")
+```
+
